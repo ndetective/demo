@@ -1,2 +1,2 @@
-i am master hello i am other
-
+Git is a version control system.
+Git is free software.
